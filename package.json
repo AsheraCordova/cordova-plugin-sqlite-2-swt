@@ -1,0 +1,7 @@
+{
+  "name": "cordova-plugin-sqlite-2-swt",
+  "version": "1.0.0",
+  "description": "Cordova SQLite Plugin 2 for SWT",
+  "author": "Ram M",
+  "license": "ISC"
+}

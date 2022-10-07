@@ -1,0 +1,9 @@
+repositories {
+    mavenLocal();
+    google();
+    jcenter();
+}
+
+dependencies {
+	implementation "org.xerial:sqlite-jdbc:3.8.7"
+}
