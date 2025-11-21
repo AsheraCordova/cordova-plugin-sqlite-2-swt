@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "description": "Cordova SQLite Plugin 2 for SWT",
   "author": "Ram M",
-  "license": "ISC"
+  "license": "Apache-2.0"
 }
